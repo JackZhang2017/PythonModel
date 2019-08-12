@@ -2,15 +2,9 @@
 """
 Created on Wed Jun 27 15:56:12 2018
 
-@author: yiyue.jiang
+
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 26 14:41:57 2018
-
-@author: yiyue.jiang
-"""
 
 import numpy as np
 import pandas as pd
